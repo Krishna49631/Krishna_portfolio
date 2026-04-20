@@ -62,7 +62,11 @@ npm run dev
 
 ## 📸 Screenshots
 
-(Add your portfolio screenshots here for better presentation)
+## 📸 Screenshots
+
+![Home](Home_page.png)
+![Skills](Skills.png)
+![Experience](Experience.png)
 
 ---
 
